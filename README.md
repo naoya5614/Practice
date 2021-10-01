@@ -15,15 +15,15 @@
 12. PyTorch_study(2021.04.27) PyTorch基礎コード学習用
 13. np_pca(2021.04.29) numpyで主成分分析の実装
 14. PCA_describe(2021.05.14) 主成分分析のまとめ
-15. Edit_gasyori100knock_01(2021.05.15) 画像処理100本ノック　演習1~10問
-16. Edit_gasyori100knock_02(2021.05.16) 画像処理100本ノック　演習11~20問
-17. Edit_gasyori100knock_03(2021.05.20) 画像処理100本ノック　演習21~30問
-18. exercise1_pandas(2021.05.21) Pandasデータ整形演習問題
-19. Edit_gasyori100knock_04(2021.05.23) 画像処理100本ノック　演習31~40問
-20. Edit_gasyori100knock_05(2021.05.24) 画像処理100本ノック　演習41~50問
-21. Edit_gasyori100knock_06(2021.05.26) 画像処理100本ノック　演習51~60問
-22. Edit_gasyori100knock_07(2021.05.27) 画像処理100本ノック　演習61~70問
-23. Edit_gasyori100knock_08(2021.05.28) 画像処理100本ノック　演習71~80問
-24. Edit_gasyori100knock_09(2021.05.29) 画像処理100本ノック　演習81~90問
-25. Edit_gasyori100knock_10(2021.05.30) 画像処理100本ノック　演習91~100問
-26. pythonパッケージ(2021.06.22) pythonのパッケージ説明
+15. Edit_gasyori100knock_01 画像処理100本ノック　演習1~10問
+16. Edit_gasyori100knock_02 画像処理100本ノック　演習11~20問
+17. Edit_gasyori100knock_03 画像処理100本ノック　演習21~30問
+18. exercise1_pandas Pandasデータ整形演習問題
+19. Edit_gasyori100knock_04 画像処理100本ノック　演習31~40問
+20. Edit_gasyori100knock_05 画像処理100本ノック　演習41~50問
+21. Edit_gasyori100knock_06 画像処理100本ノック　演習51~60問
+22. Edit_gasyori100knock_07 画像処理100本ノック　演習61~70問
+23. Edit_gasyori100knock_08 画像処理100本ノック　演習71~80問
+24. Edit_gasyori100knock_09 画像処理100本ノック　演習81~90問
+25. Edit_gasyori100knock_10 画像処理100本ノック　演習91~100問
+26. pythonパッケージ pythonのパッケージ説明
