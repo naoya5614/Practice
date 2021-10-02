@@ -10,11 +10,11 @@
 7. Logistic_Regression.ipynb(2021.04.22) ロジスティック回帰モデルの学習予測
 8. Edit_gasyori100knock_01(2021.04.22) 画像処理ノック100の1~10をオリジナル画像で実践
 9. Pca(2021.04.23) 主成分分析の学習、射影、逆変換等を実装
-10. Python_Basic(2021.04.25) Python基礎コード学習用
-11. Pandas_study(2021.04.26) Pandas基礎コード学習用
-12. PyTorch_study(2021.04.27) PyTorch基礎コード学習用
-13. np_pca(2021.04.29) numpyで主成分分析の実装
-14. PCA_describe(2021.05.14) 主成分分析のまとめ
+10. Python_Basic Python基礎コード学習用
+11. Pandas_study Pandas基礎コード学習用
+12. PyTorch_study PyTorch基礎コード学習用
+13. np_pca numpyで主成分分析の実装
+14. PCA_describe 主成分分析のまとめ
 15. Edit_gasyori100knock_01 画像処理100本ノック　演習1~10問
 16. Edit_gasyori100knock_02 画像処理100本ノック　演習11~20問
 17. Edit_gasyori100knock_03 画像処理100本ノック　演習21~30問
